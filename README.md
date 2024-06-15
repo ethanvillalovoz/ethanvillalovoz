@@ -21,12 +21,13 @@ class EthanVillalovoz:
         self.web = 'https://ethanvillalovoz.github.io'
         self.cv = 'https://ethanvillalovoz.github.io/files/Villalovoz_CV.pdf'
         self.code = {
-            'Programming Languages': ['C/C++', 'Python', 'HTML/CSS', 'Haskell', 'MATLAB', 'LaTeX', 'C#', 'SQL', 'R'],
+            'Programming Languages': ['C/C++', 'Python', 'HTML/CSS', 'Haskell', 'MATLAB', 'LaTeX', 'C#', 'SQL',
+                                      'R'],
             'Developer Tools': ['VS Code', 'VS Community', 'Xcode', 'CLion', 'PyCharm', 'RStudio', 'Weka',
                                 'Cytoscape', 'Google Colab'],
-            'Technologies/Frameworks': ['Command Line Interface - Windows/Unix', 'Robot Operating System', 'Linux',
-                                        'GitHub', 'Pandas', 'NumPy', 'PyTorch', 'Scikit-learn', 'TensorFlow',
-                                        'Matplotlib', 'Seaborn']
+            'Technologies/Frameworks': ['Command Line Interface - Windows/Unix', 'Robot Operating System',
+                                        'Linux', 'GitHub', 'Pandas', 'NumPy', 'PyTorch', 'Scikit-learn',
+                                        'TensorFlow', 'Matplotlib', 'Seaborn']
         }
 
     def __str__(self):
