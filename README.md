@@ -42,7 +42,7 @@ if __name__ == '__main__':
 ```
 
 ## 📫 How to reach me:
-You can reach me via the email listed in my GitHub profile or on LinkedIn down below!
+You can reach me via LinkedIn down below!
 
 [<img src="https://raw.githubusercontent.com/ethanvillalovoz/ethanvillalovoz/master/images/linkedin.png" height="40em" align="center" alt="Follow ethanvillalovoz on LinkedIn" title="Follow ethanvillalovoz on LinkedIn"/>](https://www.linkedin.com/in/evillalovoz27/)
 
