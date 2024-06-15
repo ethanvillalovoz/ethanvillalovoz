@@ -39,7 +39,7 @@ if __name__ == '__main__':
 ## Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethanvillalovoz&show_icons=true&title_color=7581cd&icon_color=7581cd&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Ethan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanvillalovoz&show_icons=true&title_color=7581cd&icon_color=7581cd&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethanvillalovoz&show_icons=true&title_color=7581cd&icon_color=7581cd&text_color=9f9f9f&bg_color=adcd75&count_private=true) | ![Ethan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanvillalovoz&show_icons=true&title_color=7581cd&icon_color=7581cd&text_color=9f9f9f&bg_color=adcd75&count_private=true&layout=compact) |
 
 
 
