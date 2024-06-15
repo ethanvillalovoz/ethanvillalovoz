@@ -41,8 +41,8 @@ if __name__ == '__main__':
 
 ```
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+## 📫 How to reach me:
+You can reach me at my email in my github profile or at linkedin here!
 
 [<img src="https://raw.githubusercontent.com/ethanvillalovoz/ethanvillalovoz/master/images/linkedin.png" height="40em" align="center" alt="Follow ethanvillalovoz on LinkedIn" title="Follow ethanvillalovoz on LinkedIn"/>](https://www.linkedin.com/in/evillalovoz27/)
 
