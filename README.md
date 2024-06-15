@@ -1,5 +1,6 @@
 <h1 align="center">👋🏼 Hello! I'm Ethan Villalovoz</h1>
 
+![](https://vbr.ethanvillalovoz.dev/badge?page_id=visitor-badge-reloaded-visitors&color=a4133c&style=for-the-badge&logo=Github&hit=false)
 
 <!--   ![Profile View Counter](https://komarev.com/ghpvc/?username=ethanvillalovoz)
   ![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evillalovoz27/)](https://www.linkedin.com/in/evillalovoz27/)
