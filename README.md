@@ -40,6 +40,14 @@ if __name__ == '__main__':
 
 ```
 
+---
+
+## ⚡️ Recent Activity
+
+<!--START_SECTION:activity-->
+
+---
+
 ## 📫 How to reach me:
 You can reach me via LinkedIn down below!
 
