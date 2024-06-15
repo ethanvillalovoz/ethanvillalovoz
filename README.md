@@ -41,10 +41,6 @@ if __name__ == '__main__':
 | --- | --- |
 | ![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethanvillalovoz&show_icons=true&title_color=2E86C1&icon_color=2E86C1&text_color=D5D8DC&bg_color=1C2833&count_private=true) | ![Ethan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanvillalovoz&show_icons=true&title_color=2E86C1&icon_color=2E86C1&text_color=D5D8DC&bg_color=1C2833&count_private=true&layout=compact) |
 
-## ⚡️ Recent Activity
-
-<!--START_SECTION:activity-->
-
 ## 📫 How to reach me:
 You can reach me via LinkedIn down below!
 
