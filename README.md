@@ -11,7 +11,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%2C%20I'm%20Ethan%20Villalovoz&fontSize=40&fontAlign=50&fontColor=ffffff"/>
 </p>
 
+<!--
 <h3 align="center">AI/Robotics Researcher • CS Grad @ WSU • Open to Work</h3>
+-->
 
 <!--
 <p align="center">
