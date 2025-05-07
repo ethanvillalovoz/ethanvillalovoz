@@ -13,11 +13,13 @@
 
 <h3 align="center">AI/Robotics Researcher • CS Grad @ WSU • Open to Work</h3>
 
+<!--
 <p align="center">
   <a href="https://ethanvillalovoz.github.io">Portfolio Website</a> • 
   <a href="mailto:ethanvillalovoz@gmail.com">Email</a> • 
   <a href="https://www.linkedin.com/in/ethanvillalovoz">LinkedIn</a>
 </p>
+-->
 
 ---
 
@@ -35,6 +37,7 @@ I recently graduated with a B.S. in Computer Science and a minor in Mathematics 
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -43,6 +46,7 @@ I recently graduated with a B.S. in Computer Science and a minor in Mathematics 
 </p>
 
 ---
+-->
 
 ### 🧠 Currently...
 - 📝 Applying to full-time AI/ML research roles
