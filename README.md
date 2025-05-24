@@ -52,6 +52,6 @@ I recently graduated with a B.S. in Computer Science and a minor in Mathematics 
 
 ### 🧠 Currently...
 - 📝 Applying to full-time AI/ML research roles
-- 🎯 Preparing for PhD applications (Fall 2025)
+- 🎯 Preparing for MS applications (Spring 2026)
 
 Thanks for visiting — feel free to reach out if you want to chat or collaborate!
