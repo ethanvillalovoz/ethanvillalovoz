@@ -5,6 +5,8 @@
 - 🌟 Research focus: Creating interactive, socially adaptive robots that enhance human-AI collaboration.
 - 💻 Find more about me at [ethanvillalovoz.github.io](https://ethanvillalovoz.github.io/).
 
+I want you to create a detailed write up explaining the problem you have addressed, approach we took, the challenges we faced, and the results we came up. Include code snippets, visualizations and more
+
 ---
 -->
 <p align="center">
