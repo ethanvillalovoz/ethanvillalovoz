@@ -7,6 +7,27 @@
 
 I want you to create a detailed write up explaining the problem you have addressed, approach we took, the challenges we faced, and the results we came up. Include code snippets, visualizations and more
 
+
+CS 6515 – Intro to Graduate Algorithms
+
+CS 7641 – Machine Learning
+
+CS 6476 – Computer Vision
+
+CS 7650 – Natural Language Processing
+
+CS 7638 – AI Techniques for Robotics
+
+CS 7637 – Knowledge-Based AI
+
+CS 7642 – Reinforcement Learning
+
+CS 7643 – Deep Learning
+
+ISYE 6420 – Bayesian Statistics
+
+CS 7632 – Game AI ✅ (Best aligned with real-time autonomy, sim environments, and agent planning)
+
 ---
 -->
 <p align="center">
