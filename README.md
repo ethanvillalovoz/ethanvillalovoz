@@ -26,7 +26,7 @@ CS 7643 – Deep Learning
 
 ISYE 6420 – Bayesian Statistics
 
-CS 7632 – Game AI ✅ (Best aligned with real-time autonomy, sim environments, and agent planning)
+CS 8803 O21: GPU Hardware and Software
 
 What’s your ideal breakdown of your time in a working week, in terms of hours or % per week spent on meetings, coding, reading papers, etc.?
 
