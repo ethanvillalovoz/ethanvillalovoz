@@ -82,6 +82,14 @@ I'm **Ethan** — a builder and researcher passionate about **human-centered AI*
   <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=ethanvillalovoz&count_private=true&theme=dark&ring=9D2235&currStreakLabel=C94F5C&background=10151a&hide_border=false&border_radius=10&card_width=495" alt="GitHub Streak" />
 </div>
 
+---
+
+### 🧠 Currently...
+- 📝 Applying to full-time AI/ML research roles
+- 🎯 Preparing for MS applications (Spring 2026)
+
+Thanks for visiting — feel free to reach out if you want to chat or collaborate!
+
 <!--
 ------------------------------------------------------------------------------------------------------------------------
 What each readme project should have
