@@ -195,6 +195,215 @@ Directory structure: what files are where and why; for example artifacts
 Deployment: what branches deploy to which environment; for example main to production
 
 FAQ / troubleshooting: what common issues do people have and what solutions work
+
+3.1. Types
+
+There are multiple types of documentation, from inline comments to technical documentation and user documentation. Each has a dedicated goal aimed at a particular consumer.
+
+Types of documentation could include:
+
+Type
+
+Goal
+
+Example
+
+Architecture
+
+Broad technical requirements
+
+Database design, multiple systems integration
+
+End user guide
+
+Walk user through how to navigate and use the application
+
+How to register, how to delete their account
+
+Product
+
+High level of what the system should do
+
+Banking application that allows people to pay
+
+Technical
+
+How to run / use the tool
+
+Deploying the application
+
+3.2. Diagrams
+
+Annotated screenshots and diagrams can help explain workflow and architecture more effectively. 
+
+There are specific tools to draw diagrams, for example Google Draw, Adobe Illustrator, however these are not recommended. 
+
+When someone else needs to update the diagram, they are unlikely to have access to the original source file or have the correct program installed. Also, when reviewing a diagram which is a binary file, it is very difficult to notice the changes that were made. 
+
+This challenge can be reduced by using SVG files which can be opened by various applications, however it is not seamless.
+
+When possible it is better to use tools like Mermaid which allows diagrams to be drawn using markup style code.‌
+
+Currently supported diagrams are:
+
+Flowchart
+
+Sequence diagram
+
+Class diagram
+
+State diagram
+
+Entity Relationship diagram
+
+User journey
+
+Gantt
+
+Pie chart
+
+Sequence diagram example using Mermai
+
+Below is the code for the sequence diagram above. Both should be included in the documentation project, making it easier for people to make changes and even easier when it is being reviewed to see what has changed, just like with code.
+
+3.3. Contributors file
+
+Having a CONTRIBUTING.md file helps the maintainer communicate how to get involved in the project, and helps the contributor know how to add value. This improves the communication and helps focus it on the more useful collaborations.
+
+This special file can be located in one of three places:
+
+/ folder
+
+docs/ folder
+
+.github folder
+
+Then GitHub uses this file in one of those locations to present to the user when they either create an issue or pull request.
+
+CONTRIBUTORS.md link when creating an issue
+
+
+CONTRIBUTORS.md link when creating an issue
+
+
+What to include
+How to create a good issue or pull request
+
+Useful links from internal to external documentation, mailing lists, code of conduct etc
+
+Other community rules and expectations
+
+Examples
+Atom editor
+
+Ruby on Rails
+
+Open government
+
+3.4. Issue template
+
+When issues are created, they are rarely consistent and often do not include important and relevant information. However this can be improved by creating templates for the usual issue types. These types could include:
+
+Bug / defect
+
+Feature / story
+
+Idea / feature request
+
+To add an issue template to the project, create a file in .github/ISSUE_TEMPLATE/<name>.md. There is no limit in the amount of template types, style or content, however some meta data is recommended.
+
+Here is an example of a simple bug template, that adds a label and assigns it to a user (both are optional and can be omitted).
+
+
+---
+
+name: Bug
+
+about: 'Bug / defect template'
+
+title: 'I found a bug ...'
+
+labels: bug
+
+assignees: 'MLH'
+
+---
+
+## Steps to reproduce
+
+```gherkin
+
+Given ...
+
+When ...
+
+Then ...
+
+---
+
+## Expected result
+gherkin
+
+Given ...
+
+When ...
+
+Then ...
+
+---
+
+## Technical
+| Tech | Details |
+
+| :--- | :--- |
+
+| Browser | safari / firefox / chrome |
+
+| Version | v12 |
+
+| Operating system | OSx / Windows / Linux |
+
+Screenshots
+
+When creating a new issue, the user is presented with available template options:
+
+3.5. PR Template
+ 
+When a PR is created, if a template file exists, it will automatically be populated to make it easier for the author to fill in the information about the PR.
+
+The template could include:
+
+Issue number
+
+Tasks
+
+Screenshots
+
+To create a template, add the file .github/PULL_REQUEST_TEMPLATE.md with the content for the template. 
+
+closes #ISSUE-NO
+
+Please include a summary of the change and which issue it solves.
+
+Also include relevant motivation and context.
+
+List any dependencies that are required for this change.
+
+## Tasks
+
+- [ ]task 1
+
+- [ ]task 2
+
+- [ ] ...
+
+## Screenshots (if appropriate)
+
+PRs can close their respective issues by mentioning closes #123 and this also puts a reference in the issue timeline back to the PR.
+
+Issue timeline with reference back to the PR
+
+Issue timeline with reference back to the PR
 ------------------------------------------------------------------------------------------------------------------------
 -->
 
@@ -238,5 +447,50 @@ Dependency Inversion Principle
 DIP
 
 Depend on abstractions rather than concrete classes
+------------------------------------------------------------------------------------------------------------------------
+-->
+
+<!--
+------------------------------------------------------------------------------------------------------------------------
+3. Video Structure
+
+Think of things to entice the viewer and keep them engaged. The first 30 seconds must capture the audience, bring them into your story and along your journey.
+
+Things to include
+Challenge / objective
+
+What problem are you trying to solve with your project
+
+How did your project solve this
+
+Why is your solution unique or better than existing solutions
+
+Demo
+
+Show the best and most interesting parts of your project
+
+Include any challenges and (possible) solutions
+
+What technologies did you use and why
+
+What is the project dream and future features / goals
+
+Conclusion
+
+Re-cap the problem
+
+Explain why your project solves this well
+
+
+Do not include
+Opening remarks such as
+
+Thanking the organizers / mentors / venue
+
+Thanking your team
+
+How much you didn't sleep because of this project
+
+Waste time editing with fancy animations or effects
 ------------------------------------------------------------------------------------------------------------------------
 -->
