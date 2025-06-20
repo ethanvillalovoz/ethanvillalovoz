@@ -22,9 +22,11 @@ CS 8803 O21: GPU Hardware and Software
 ---
 -->
 <!-- Typing Animation Banner (WSU Crimson, fixed size) -->
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9D2235&center=true&multiline=true&height=100&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Ethan+Villalovoz;CS+Grad+%7C+AI%2FML+Researcher+%26+Engineer;Always+down+to+collab+or+chat!" />
 </p>
+-->
 
 <!-- Static Title Banner (optional custom image) -->
 <!-- If capsule-render fails again, replace this with your own uploaded image -->
@@ -50,7 +52,10 @@ I'm **Ethan** — a builder and researcher passionate about **human-centered AI*
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,ros,jupyter,git,docker,html,sql,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,latex,haskell,matlab,r&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,docker,linux,vscode,visualstudio,pycharm&theme=dark" />
 </p>
 
 ---
