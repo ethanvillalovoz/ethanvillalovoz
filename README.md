@@ -181,6 +181,20 @@ What does it look like
 What are the prerequisites that are required (for example node v12+)
 
 As the README grows, it is recommended to use the docs/ folder to have it separated into sections.
+
+The README is best used to focus on the immediate value ideas, for example:‌
+
+Prerequisite: what is needed to be installed first; for example node v12+
+
+Quickstart: how people can get started with the basics; for example running the automated tests
+
+Configuration / environment variables: what configuration is needed; for example database credentials
+
+Directory structure: what files are where and why; for example artifacts
+
+Deployment: what branches deploy to which environment; for example main to production
+
+FAQ / troubleshooting: what common issues do people have and what solutions work
 ------------------------------------------------------------------------------------------------------------------------
 -->
 
