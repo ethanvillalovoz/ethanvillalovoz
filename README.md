@@ -91,7 +91,22 @@ I'm **Ethan** — a builder and researcher passionate about **human-centered AI*
 Thanks for visiting — feel free to reach out if you want to chat or collaborate!
 
 <!--
-How can i make this code more modularized and aligning with best code practices
+How can i make this code more modularized and aligning with best code practices:
+1. Separate Classes into Different Files
+2. Use Configurations
+Use a config file (YAML, JSON, or Python dict) for hyperparameters instead of hardcoding them in main.py.
+3. Add Docstrings and Type Hints
+Add docstrings and type hints to all functions and classes for clarity and maintainability.
+4. Logging Instead of Print
+Use Python’s logging module instead of print for better control over output.
+5. Model Saving/Loading Paths
+Allow model save/load paths to be passed as arguments.
+6. Environment Wrapping
+Consider wrapping the environment for normalization, seeding, etc.
+8. Add Unit Tests
+Create a tests/ directory and add unit tests for each module.
+9. PEP8 Formatting
+Ensure code follows PEP8 style guidelines (indentation, naming, etc.).
 ------------------------------------------------------------------------------------------------------------------------
 What each readme project should have
 
