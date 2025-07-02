@@ -107,6 +107,10 @@ Consider wrapping the environment for normalization, seeding, etc.
 Create a tests/ directory and add unit tests for each module.
 9. PEP8 Formatting
 Ensure code follows PEP8 style guidelines (indentation, naming, etc.).
+Example command:
+To auto-format your code with black:
+
+To check for issues with flake8:
 ------------------------------------------------------------------------------------------------------------------------
 What each readme project should have
 
