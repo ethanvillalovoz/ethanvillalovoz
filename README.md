@@ -91,6 +91,7 @@ I'm **Ethan** — a builder and researcher passionate about **human-centered AI*
 Thanks for visiting — feel free to reach out if you want to chat or collaborate!
 
 <!--
+How can i make this code more modularized and aligning with best code practices
 ------------------------------------------------------------------------------------------------------------------------
 What each readme project should have
 
