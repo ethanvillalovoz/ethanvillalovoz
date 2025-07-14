@@ -45,29 +45,56 @@ I'm **Ethan** — a builder and researcher passionate about **human-centered AI*
 - 💼 Former **Google STEP intern** — built internal devtools in C++ and SQL
 - 🧠 Excited about: **LLMs**, **robot learning**, **clarification systems**, **RL**, and **AI policy**
 
-<!-- 🔧 I built [ClarifyBot](https://github.com/ethanvillalovoz/clarifybot) — a robot that asks follow-up questions when human feedback is ambiguous. -->
-
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,latex,haskell,matlab,r&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,docker,linux,vscode,visualstudio,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,matlab,r,bash,swift&theme=dark" />
 </p>
 
 ---
-<!--
-### 🚀 Featured Projects
 
-| 🧠 Project | 📝 Description | ⚙️ Tech |
-|-----------|----------------|--------|
-| [ACME10-HE-RAGApp](https://github.com/mollyiverson/ACME10-HE-RAGApp) | RAG-based chatbot with vector search and DBpedia knowledge graphs | FAISS, OpenAI, FastAPI |
+### 🛠 Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm,aws,sqlite&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-blue?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194f6?style=flat&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-945dd6?style=flat&logo=data-version-control&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+</p>
 
 ---
--->
+
+### 📚 Libraries / Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,pytorch,tensorflow,flask,nextjs&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-fcc72d?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-f7931e?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-d71f00?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-057ce1?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646cff?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-333333?style=flat&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-1e5f74?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314e?style=flat&logo=ros&logoColor=white" />
+</p>
+
+---
+
 ### 📊 Stats
 
 <div align="center">
