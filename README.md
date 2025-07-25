@@ -40,10 +40,11 @@ CS 8803 O21: GPU Hardware and Software
 
 I'm **Ethan** — a builder and researcher passionate about **human-centered AI** and robotics.
 
-- 🎓 B.S. in Computer Science from **Washington State University**
+- 🎓 B.S. in Computer Science from **Washington State University** (Summa Cum Laude)
+- 🐝 Incoming **MSCS student @ Georgia Tech** (Spring 2026), specializing in **Computational Perception and Robotics**
 - 🧪 Research at **CMU**, Oregon State, and WSU (focus: RLHF, robotics, multimodal learning)
-- 💼 Former **Google STEP intern** — built internal devtools in C++ and SQL
-- 🧠 Excited about: **LLMs**, **robot learning**, **clarification systems**, **RL**, and **AI policy**
+- 💻 Former **Google STEP intern** — built internal devtools in C++ and SQL
+- 🤖 Excited about: **LLMs**, **robot learning**, **clarification systems**, **RLHF**, and **AI policy**
 
 ---
 
