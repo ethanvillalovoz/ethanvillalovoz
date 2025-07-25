@@ -113,8 +113,8 @@ I'm **Ethan** — a builder and researcher passionate about **human-centered AI*
 ---
 
 ### 🧠 Currently...
-- 📝 Applying to full-time AI/ML research roles
-- 🎯 Preparing for MS applications (Spring 2026)
+- 💼 Seeking full-time roles in AI/ML, robotics, or research engineering
+- 📚 Preparing to begin **MSCS @ Georgia Tech** in **Spring 2026** (Computational Perception & Robotics)
 
 Thanks for visiting — feel free to reach out if you want to chat or collaborate!
 
