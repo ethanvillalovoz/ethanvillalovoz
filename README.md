@@ -99,15 +99,11 @@ I'm **Ethan** — a builder and researcher passionate about **human-centered AI*
 ### 📊 Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanvillalovoz&layout=compact&theme=dark&title_color=9D2235&text_color=f3f3f3&bg_color=10151a&border_radius=10&hide_border=false&cache_seconds=1800" alt="Top Languages" />
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ethanvillalovoz&count_private=true&show_icons=true&theme=dark&title_color=9D2235&icon_color=C94F5C&text_color=f3f3f3&bg_color=10151a&hide_border=false&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=ethanvillalovoz&count_private=true&theme=dark&ring=9D2235&currStreakLabel=C94F5C&background=10151a&hide_border=false&border_radius=10&card_width=495" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ethanvillalovoz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&title_color=9D2235&icon_color=C94F5C&text_color=f3f3f3&bg_color=10151a&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanvillalovoz&layout=compact&theme=dark&title_color=9D2235&text_color=f3f3f3&bg_color=10151a&border_radius=10&hide_border=false&cache_seconds=1800" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanvillalovoz&count_private=true&theme=dark&ring=9D2235&currStreakLabel=C94F5C&background=10151a&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ethanvillalovoz&theme=dark&title_color=9D2235&icon_color=C94F5C&text_color=f3f3f3&bg_color=10151a&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethanvillalovoz&radius=16&theme=dark&title_color=9D2235&icon_color=C94F5C&text_color=f3f3f3&bg_color=10151a&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ---
