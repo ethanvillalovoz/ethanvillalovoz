@@ -42,11 +42,13 @@ I'm **Ethan** — a builder and researcher passionate about **human-centered AI*
 
 - 🎓 B.S. in Computer Science from **Washington State University** (Summa Cum Laude)
 - 🐝 **MSCS student @ Georgia Tech**, specializing in **Computational Perception and Robotics**
-- 🧪 Research at **CMU**, Oregon State, and WSU (focus: RLHF, robotics, multimodal learning)
-- 💻 Former **Google STEP intern** — built internal devtools in C++ and SQL
 - 🤖 Excited about: **LLMs**, **robot learning**, **clarification systems**, **RLHF**, and **AI policy**
 
 <!-----
+
+- 🧪 Research at **CMU**, Oregon State, and WSU (focus: RLHF, robotics, multimodal learning)
+- 💻 Former **Google STEP intern** — built internal devtools in C++ and SQL
+
 
 ### 🧰 Languages
 
@@ -109,8 +111,7 @@ I'm **Ethan** — a builder and researcher passionate about **human-centered AI*
 ---
 
 ### 🧠 Currently...
-- 💼 Seeking full-time roles in AI/ML, robotics, or research engineering
-- 📚 Preparing to begin **MSCS @ Georgia Tech** in **Spring 2026** (Computational Perception & Robotics)
+- 💼 Seeking full-time/internship roles in AI/ML, robotics, or research engineering
 
 Thanks for visiting — feel free to reach out if you want to chat or collaborate!
 
