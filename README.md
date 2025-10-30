@@ -111,7 +111,8 @@ I'm **Ethan** — a builder and researcher passionate about **human-centered AI*
 ---
 
 ### 🧠 Currently...
-- 💼 Seeking full-time/internship roles in AI/ML, robotics, or research engineering
+- 💼 Incoming Software Engineer Intern @ Microsoft (Summer 2026)
+- 🔍 Open to Fall 2026 / Winter 2026–27 internship opportunities in AI/ML, robotics, or research engineering
 
 Thanks for visiting — feel free to reach out if you want to chat or collaborate!
 
