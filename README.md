@@ -38,11 +38,11 @@ CS 8803 O21: GPU Hardware and Software
 
 ### 👨‍💻 About Me
 
-I'm **Ethan** — a builder and researcher passionate about **human-centered AI** and robotics.
+I'm **Ethan**, a builder and researcher passionate about human-centered AI, embodied intelligence, and robotic learning systems.
 
-- 🎓 B.S. in Computer Science from **Washington State University** (Summa Cum Laude)
-- 🐝 **MSCS student @ Georgia Tech**, specializing in **Computational Perception and Robotics**
-- 🤖 Excited about: **LLMs**, **robot learning**, **clarification systems**, **RLHF**, and **AI policy**
+- 🎓 **B.S. in Computer Science**, Washington State University (Summa Cum Laude)
+- 🤖 **MSCS student at Georgia Tech**, specializing in Computational Perception and Robotics
+- 🔍 Research interests: **aligned world models**, human intent inference, interactive robot learning, human-AI collaboration, generative models for embodied intelligence, and safe autonomous systems
 
 <!-----
 
@@ -111,10 +111,11 @@ I'm **Ethan** — a builder and researcher passionate about **human-centered AI*
 ---
 
 ### 🧠 Currently...
-- 💼 Incoming Software Engineer Intern @ Microsoft (Summer 2026)
-- 🔍 Open to Fall 2026 / Winter 2026–27 internship opportunities in AI/ML, robotics, or research engineering
+- 💼 Incoming **Software Engineer Intern @ Microsoft** (Summer 2026)
+- 🔎 Open to **Fall 2026 / Winter 2026–27 research internships** in AI/ML, robotics, or research engineering  
+- 📚 Building expertise through graduate-level robotics and AI coursework and hands-on research projects
 
-Thanks for visiting — feel free to reach out if you want to chat or collaborate!
+Thanks for visiting — feel free to reach out if you’d like to chat about AI, robotics, or innovative research ideas!
 
 <!--
 How can i make this code more modularized and aligning with best code practices:
