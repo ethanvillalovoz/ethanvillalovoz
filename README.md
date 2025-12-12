@@ -1,26 +1,3 @@
-<!--
-CS 6515 – Intro to Graduate Algorithms
-
-CS 7641 – Machine Learning
-
-CS 6476 – Computer Vision
-
-CS 7650 – Natural Language Processing
-
-CS 7638 – AI Techniques for Robotics
-
-CS 7637 – Knowledge-Based AI
-
-CS 7642 – Reinforcement Learning
-
-CS 7643 – Deep Learning
-
-ISYE 6420 – Bayesian Statistics
-
-CS 8803 O21: GPU Hardware and Software
-
----
--->
 <!-- Typing Animation Banner (WSU Crimson, fixed size) -->
 <!--
 <p align="center">
@@ -30,11 +7,13 @@ CS 8803 O21: GPU Hardware and Software
 
 <!-- Static Title Banner (optional custom image) -->
 <!-- If capsule-render fails again, replace this with your own uploaded image -->
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9D2235&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontAlign=50&fontColor=f3f3f3" />
 </p>
 
 ---
+-->
 
 ### 👨‍💻 About Me
 
