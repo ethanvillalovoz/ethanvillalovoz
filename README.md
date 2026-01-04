@@ -14,10 +14,7 @@
 <h1>Ethan Villalovoz</h1>
 
 <p style="max-width:720px; line-height:1.6;">
-My research interests are in robot learning and world modeling from human interaction and feedback.
-</p>
-
-<p>
+My research interests are in robot learning and world modeling from human interaction and feedback.<br />
 I am always open to connecting—please feel free to reach out!
 </p>
 
