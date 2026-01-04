@@ -19,7 +19,9 @@ I am always open to connecting—please feel free to reach out!
 </p>
 
 <!-- Resume button (GitHub-native via shields.io) -->
-<a href="https://ethanvillalovoz.com/data/EthanVillalovoz-Resume.pdf">
+<a href="https://ethanvillalovoz.com/data/EthanVillalovoz-Resume.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Resume-View-2f2f2f?style=flat-square&logo=readthedocs&logoColor=white" />
 </a>
 
