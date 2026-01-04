@@ -1,3 +1,33 @@
+<div align="center">
+
+<!-- Your Logo (custom, allowed) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/ethanvillalovoz/ethanvillalovoz/main/images/website_icon_white.png">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/ethanvillalovoz/ethanvillalovoz/main/images/website_icon.png">
+  <img src="https://raw.githubusercontent.com/ethanvillalovoz/ethanvillalovoz/main/assets/icon-light.png"
+       width="64"
+       alt="Logo" />
+</picture>
+
+<h1>Ethan Villalovoz</h1>
+
+<p style="max-width:720px; line-height:1.6;">
+My research interests are in robot learning and world modeling from human interaction and feedback.
+</p>
+
+<p>
+I am always open to connecting—please feel free to reach out!
+</p>
+
+<!-- Resume button (GitHub-native via shields.io) -->
+<a href="https://ethanvillalovoz.com/data/EthanVillalovoz-Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-View-2f2f2f?style=flat-square&logo=readthedocs&logoColor=white" />
+</a>
+
+</div>
+
 <!-- Typing Animation Banner (WSU Crimson, fixed size) -->
 <!--
 <p align="center">
@@ -14,7 +44,7 @@
 
 ---
 -->
-
+<!---
 ### 👨‍💻 About Me
 
 I'm **Ethan**, a builder and researcher passionate about human-centered AI, embodied intelligence, and robotic learning systems.
@@ -87,7 +117,7 @@ I'm **Ethan**, a builder and researcher passionate about human-centered AI, embo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethanvillalovoz&radius=16&theme=dark&title_color=9D2235&icon_color=C94F5C&text_color=f3f3f3&bg_color=10151a&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>-->
 
----
+<!---
 
 ### 🧠 Currently...
 - 💼 Incoming **Software Engineer Intern @ Microsoft** (Summer 2026)
@@ -95,6 +125,8 @@ I'm **Ethan**, a builder and researcher passionate about human-centered AI, embo
 - 📚 Building expertise through graduate-level robotics and AI coursework and hands-on research projects
 
 Thanks for visiting — feel free to reach out if you’d like to chat about AI, robotics, or innovative research ideas!
+
+-->
 
 <!--
 How can i make this code more modularized and aligning with best code practices:
