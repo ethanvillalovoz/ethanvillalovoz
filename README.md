@@ -15,7 +15,7 @@
 
 <p style="max-width:720px; line-height:1.6;">
 My research interests are in robot learning and world modeling from human interaction and feedback.<br />
-I am always open to connecting—please feel free to reach out!
+I am always open to connecting. Please feel free to reach out!
 </p>
 
 <!-- Resume button (GitHub-native via shields.io) -->
