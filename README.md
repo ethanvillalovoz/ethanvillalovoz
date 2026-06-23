@@ -12,59 +12,43 @@
 
 <h1>Ethan Villalovoz</h1>
 
-<p><strong>Software engineer focused on AI/ML systems, robotics, and research engineering.</strong></p>
-
 <p>
-M.S. Computer Science student at Georgia Tech, Software Engineer Intern at Microsoft,
-Google STEP alum, and published robotics/LLM research contributor.
-</p>
-
-<p>
-  <a href="https://ethanvillalovoz.com">Website</a> |
-  <a href="https://ethanvillalovoz.com/data/EthanVillalovoz-Resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/evillalovoz27/">LinkedIn</a>
+  <a href="https://ethanvillalovoz.com">
+    <img alt="Website" src="https://img.shields.io/badge/website-0a5994?style=flat-square">
+  </a>
+  <a href="https://ethanvillalovoz.com/data/EthanVillalovoz-Resume.pdf">
+    <img alt="Resume" src="https://img.shields.io/badge/resume-24292f?style=flat-square">
+  </a>
+  <a href="https://www.linkedin.com/in/evillalovoz27/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 </div>
 
-## What I Work On
-
-- Robot learning and human-robot interaction: video-to-action policy learning, reward learning, state correction, and clarification-guided systems.
-- AI/ML applications: retrieval-augmented generation, vector search, prompt optimization, model evaluation, and applied ML pipelines.
-- Software systems: backend APIs, data and analytics workflows, developer tooling, dashboards, and production-minded full-stack applications.
-
-## Currently
-
-- M.S. Computer Science at Georgia Tech, specializing in Computational Perception & Robotics.
-- Graduate Student Researcher building video-to-action policy-learning pipelines with video diffusion, action flow matching, PyTorch, Hydra, and LIBERO.
-- Software Engineer Intern at Microsoft, building multi-agent workflow integrations for an internal cloud platform.
-
-## Selected Projects
-
-| Project | What it shows |
+| | |
 | --- | --- |
-| [Knowledge Graph RAG Assistant](https://github.com/ethanvillalovoz/ACME10-HE-RAGApp) | Team-built senior design RAG app with React/TypeScript, FastAPI, FAISS, DBpedia/SPARQL, OpenAI, Docker, and 5GB+ indexed Wikipedia embeddings. |
-| [IntelliCrawl](https://github.com/ethanvillalovoz/intellicrawl) | Autonomous web research agent with crawling, extraction, LLM-assisted synthesis, and a CLI-first workflow. |
-| [SentiSync](https://github.com/ethanvillalovoz/sentisync) | YouTube sentiment analysis system with a Chrome extension, Flask API, LightGBM/TF-IDF inference, MLflow, DVC, Docker, and AWS deployment workflow. |
-| [FaceTrack](https://github.com/ethanvillalovoz/facetrack) | Real-time computer vision app for face detection and tracking with OpenCV and a focused, reproducible local setup. |
-| [DDPG Reimplementation](https://github.com/ethanvillalovoz/ddpg-reimplementation) | Reinforcement-learning implementation focused on algorithmic clarity, experiment structure, and reproducible training notes. |
-| [LaTeX Resume & Academic CV Template](https://github.com/ethanvillalovoz/latex-resume-template) | ATS-friendly resume and academic CV template with CI-validated LaTeX builds and polished documentation. |
+| building | AI/ML systems, robotics research tools, full-stack apps |
+| current | SWE Intern at Microsoft, MSCS at Georgia Tech |
+| research | robot learning, RAG, LLM code generation, human-robot interaction |
+| languages | Python, C++, TypeScript, SQL |
 
-## Research
+<div align="center">
 
-- [An Exploratory Study of Bayesian Prompt Optimization for Test-Driven Code Generation with Large Language Models](https://arxiv.org/abs/2512.15076), arXiv 2025. Contributed to test-driven LLM code-generation evaluation across 164 HumanEval+ tasks and multiple code LLMs.
-- [Social Triangles and Aggressive Lines: Multi-Robot Formations Impact Navigation and Approach](https://ethanvillalovoz.com/data/research/2023_OSU_Social_Triangles_and_Aggressive_Lines/2023_IROS_Social_Triangles_Agressive_Lines_bacula.pdf), IROS 2023. Contributed to expressive multi-robot formation work studying human-robot interaction, navigation, and approach behavior.
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
 
-## Technical Toolkit
+</div>
 
-| Area | Tools and methods |
-| --- | --- |
-| Languages | Python, C/C++, SQL, JavaScript/TypeScript, HTML/CSS, C#, MATLAB, Swift |
-| AI/ML | PyTorch, Hugging Face, FAISS, SentenceTransformers, LightGBM, scikit-learn, MLflow, DVC |
-| Robotics | Robot policy learning, reward learning, human-robot interaction, ROS, simulated rollouts, MDPs |
-| Web and systems | FastAPI, Flask, React, Next.js, Docker, AWS, GitHub Actions, Postman |
-| Research | Bayesian optimization, prompt evaluation, empirical benchmarking, ablations, reproducible pipelines |
-
-## Connect
-
-I like building systems where research ideas become usable software. The best place to see more context is my [website](https://ethanvillalovoz.com); for a concise version, see my [resume](https://ethanvillalovoz.com/data/EthanVillalovoz-Resume.pdf).
+```
+profile:
+  prefers: clean repos, reproducible setups, sharp README files
+  builds: systems where research ideas become usable software
+  start: pinned repositories below
+```
