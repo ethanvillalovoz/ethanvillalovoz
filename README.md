@@ -28,8 +28,8 @@
 
 ### Current Focus
 
-- Building multi-agent workflow integrations as a Software Engineer Intern at Microsoft.
-- Researching video-to-action policy learning as an M.S. Computer Science student at Georgia Tech.
+- Building multi-agent workflow integrations at Microsoft.
+- Researching video-to-action policy learning at Georgia Tech.
 
 ### Toolbox
 
