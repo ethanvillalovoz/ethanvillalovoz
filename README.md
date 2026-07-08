@@ -19,7 +19,7 @@
   <a href="https://ethanvillalovoz.com/data/EthanVillalovoz-Resume.pdf">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-24292F?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/evillalovoz27/">
+  <a href="https://www.linkedin.com/in/ethanvillalovoz/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
